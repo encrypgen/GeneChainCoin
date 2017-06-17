@@ -1,4 +1,4 @@
 # GeneChainCoin
-Repository for GeneChainCoin 
-This is a demo code for GeneChainCoin. 
-There are two files for GUI construction and one file for support.
+Repository for GeneChainCoin </br>
+This is a demo code for GeneChainCoin. </br> 
+There are two files for DEMO GUI building and one file for support. </br>
